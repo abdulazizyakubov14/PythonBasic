@@ -17,3 +17,5 @@ def sontop(x=10):
         
     print(f"Tabriklayman. {expectations} ta taxmin bilan topdingiz!")
     return expectations
+
+    
