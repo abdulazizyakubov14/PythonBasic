@@ -12,3 +12,7 @@ if name_game == 'xa':
     start = sontop()
 elif name_game == 'yoq':
     print('....')
+
+
+def paginator():
+    
